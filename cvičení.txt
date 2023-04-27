@@ -1,0 +1,7 @@
+1. Vytvořte nákupní seznam s třemi potravinami podle vašeho výběru, včetně množství v kg
+2. Do seznamu přidejte objekt "jablko" pomocí příkazu append, hmotnost vyberte podle sebe
+3. K libovolné hmotnosti přičtěte 2 kg
+4. Prvek "jablko" přemístěte na prvek č. 2
+5. Jeden libovolný prvek vyměňte za nový prvek "hruška"
+6. Smažte třetí prvek v seznamu
+7. Vytvořte druhý seznam s cenami potravin a zobrazte uživateli celkovou cenu
