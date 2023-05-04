@@ -1,0 +1,14 @@
+1. Vytvořte program na sečtení všech čísel v seznamu
+
+2. Vytvořte program, který zobrazí druhou mocninu všech čísel v seznamu
+
+3. Vytvořte program, který vypíše všechny prvky v seznamu od největšího po nejmenší
+a) Do seznamu přidejte pomocí příkazu append další hodnotu
+b) Přidejte do seznamu prázdnou hodnotu a tu z výsledku odeberte
+
+4. Vytvořte seznam se třemi pracovníky a jejich platy
+a) Do podniku nastupuje nový pracovník, přidejte jeho jméno a plat pomoci příkazu append
+b) Jeden z pracovníků byl povýšen, pomocí příkazu replace nahraďte jeho pozici a plat
+c) Sečtěte všechny platy v seznamu a zobrazte celkovou částku uživateli
+d) S jedním z pracovníků byl ukončen pracovní poměr, odeberte jej ze seznamu pomocí příkazu del
+e) Vytvořte druhý seznam pracovníku z jiného oddělení a oba seznamy slučte dohromady
